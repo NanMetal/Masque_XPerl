@@ -1,0 +1,7 @@
+﻿## Interface: 50400
+## Version: 1.0.0
+## Title: Masque: |cffff8000X-Perl|r
+## Author: NanMetal (Pastafrola)
+## RequiredDeps: Masque, XPerl
+
+Masque_XPerl.lua
