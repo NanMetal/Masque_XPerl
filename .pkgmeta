@@ -1,0 +1,4 @@
+required-dependencies:
+    - xperl
+    - masque
+license-output: LICENSE.txt
